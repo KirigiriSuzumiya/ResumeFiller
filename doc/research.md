@@ -1,4 +1,4 @@
-# ResumeFiler
+# ResumeFiller
 Build an agent system to assist us in filling out resumes on job-seeking websites, automatically retrieve the provided data, and persistently memorize the information that has been filled in or inquired about. Achieve "collect once, fill everywhere", break free from the time-consuming and labor-intensive cycle of repeatedly filling in resume information, and improve job-hunting efficiency.
 
 ## Module
@@ -20,10 +20,8 @@ The automation module primarily supports browser-based automation for resume fil
     - mongodb
     - redis
 
-
-
-
 ### Interaction & Interface
+- [agent-chat-ui](https://github.com/langchain-ai/agent-chat-ui)
 - TODO
 
 ### Task Orchestration & Workflow
