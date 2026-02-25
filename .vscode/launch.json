@@ -11,6 +11,13 @@
             "request": "launch",
             "program": "${cwd}/main.py",
             "console": "integratedTerminal"
+        },
+        {
+            "name": "launch compile knowledge base",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${cwd}/compile_knowledgebase.py",
+            "console": "integratedTerminal"
         }
     ]
 }

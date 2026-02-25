@@ -13,3 +13,6 @@ qwen_chat_model_max_token = int(os.getenv("QWEN_CHAT_MODEL_MAX_TOKENS"))
 
 qwen_code_model = os.getenv("QWEN_CODE_MODEL")
 qwen_code_model_max_token = int(os.getenv("QWEN_CODE_MODEL_MAX_TOKENS"))
+
+qwen_embeddings_model = os.getenv("QWEN_EMBEDDINGS_MODEL")
+qwen_embeddings_batch_size = int(os.getenv("QWEN_EMBEDDINGS_BATCH_SIZE"))

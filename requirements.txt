@@ -3,3 +3,7 @@ langchain-openai
 langgraph
 "httpx[socks]"
 langchain-mcp-adapters
+langchain-chroma
+langchain_community
+langchain-text-splitters
+pypdf

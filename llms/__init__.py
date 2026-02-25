@@ -1,1 +1,2 @@
 from .base import base_chat_model, base_code_model
+from .embeddings import embeddings_model

@@ -3,4 +3,6 @@ import os
 
 # config
 load_dotenv("cfg.env")
-chrome_debug_server_url = os.getenv("CHROME_DEBUG_SERVER_URL")
+
+chroma_persist_directory = os.getenv("CHROMA_PERSIST_DIRECTORY")
+
